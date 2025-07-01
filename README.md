@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Fatima Bazurto. I am a computer science student at CSUCI. I am currently working on completing a machine learning foundations certificate from eCornell. I am interested in learning more about machine learning algorithms and data visualization tools to create data-driven solutions in the fields of medicine, environmental science, and business. 
+![image](https://github.com/user-attachments/assets/a3cc2e1c-00f3-451c-b858-d06324c9aa52)
+
+
 
 <!--
 **fbazurto/fbazurto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
