@@ -2,14 +2,18 @@
 
 ### I am interested in learning more about machine learning algorithms and data visualization tools to create data-driven solutions in the fields of medicine, environmental science, and business. I am open to anything really! 
 
-### Python |Java | C
-### pandas | Matplotlib | seaborn | scikit-learn | TensorFlow 
+### Tech Stack:
+Python |Java | C
+pandas | Matplotlib | seaborn | scikit-learn | TensorFlow 
 
 ### Key Projects: 
 
-### Interests: I have experience working as a Certified Nursing Assistant. I am excited at the prospect of using my background in patient care as a data scientist in the healthcare field. 
+### My Interests: ![image](https://github.com/user-attachments/assets/969dda52-7231-435e-93c4-91e51eaf07f8)
 
-### Contact Info: bazurtofatima1@gmail.com
+I have experience working as a Certified Nursing Assistant. I am excited at the prospect of using my background in patient care as a data scientist in the healthcare field. 
+
+### Reach out to me! :
+bazurtofatima1@gmail.com
 
 <!--
 **fbazurto/fbazurto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
